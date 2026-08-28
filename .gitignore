@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!README.md
+
+!src/
+!src/**
+
+**/__pycache__/
+**/*.py[oc]
+
+.venv/
